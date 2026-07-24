@@ -1,1 +1,9 @@
-
+body{
+  background-color:purple;
+}
+*{
+  color:yellow;
+}
+p{
+  color:white;
+}
