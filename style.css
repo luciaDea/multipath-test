@@ -3,6 +3,7 @@ body{
 }
 *{
   color:purple;
+  text-align:center;
 }
 p{
   color:black;
@@ -21,4 +22,9 @@ p{
 .image{
   max-width: 100%;
   height: auto;
+  
+}
+.imageHolder{
+  display: flex;
+  justify-content: center;
 }
